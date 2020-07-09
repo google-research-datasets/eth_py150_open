@@ -24,8 +24,8 @@ We have excluded files from repositories that no longer appear in public GitHub,
 that have licenses that do not appear in this license list, that
 mix licenses, or that apply the license incorrectly.
 
-We provide 3 JSON-formatted manifest files, one for each split ('dev', 'eval',
-and 'train'). The 'dev' and 'train' splits correspond to the 'train' split of
+We provide 3 JSON-formatted manifest files, one for each split (`dev`, `eval`,
+and `train`). The `dev` and `train` splits correspond to the `train` split of
 the original ETH Py150 corpus, and is a 90--10 split by file. If no validation
 split is required, users may combine the `dev` and `train` splits into a single
 `train` split.
