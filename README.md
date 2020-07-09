@@ -1,5 +1,5 @@
 # eth_py150_open
-A redistributable subset of the ETH Py150 corpus [https://www.sri.inf.ethz.ch/py150], introduced in the ICLR 2020 paper 'Global Relational Models of Source Code' [https://openreview.net/forum?id=B1lnbRNtwr]. 
+A redistributable subset of the ETH Py150 corpus [https://www.sri.inf.ethz.ch/py150], introduced in the ICML 2020 paper 'Learning and Evaluating Contextual Embedding of Source Code'.
 
 This release only makes available a manifest that selects some of the files in
 the original ETH Py150 corpus. The manifest was composed by tracking down the
