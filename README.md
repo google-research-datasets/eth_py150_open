@@ -13,7 +13,7 @@ those repositories with one of the following licenses:
 * 'bsd-3-clause',
 * 'bsd-2-clause',
 * 'mit',
-* 'gpl-2.0', 
+* 'gpl-2.0',
 * 'cc0-1.0',
 * 'lgpl-3.0',
 * 'mpl-2.0',
