@@ -1,5 +1,5 @@
 # eth_py150_open
-A redistributable subset of the ETH Py150 corpus [https://www.sri.inf.ethz.ch/py150], introduced in the ICML 2020 paper 'Learning and Evaluating Contextual Embedding of Source Code' [https://arxiv.org/abs/2001.00059].
+A redistributable subset of the ETH Py150 corpus [https://www.sri.inf.ethz.ch/py150], introduced in the ICML 2020 paper 'Learning and Evaluating Contextual Embedding of Source Code' [https://proceedings.icml.cc/static/paper_files/icml/2020/5401-Paper.pdf].
 
 This release only makes available a manifest that selects some of the files in
 the original ETH Py150 corpus. The manifest was composed by tracking down the
