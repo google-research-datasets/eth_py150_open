@@ -38,3 +38,11 @@ To use this manifest, one may download the ETH Py150 repository from its
 original location, and then retain only the files with the file paths included
 in the corresponding manifest we release.
 
+The sizes of three splits are as follows:
+| Dataset split | Number of source files |
+| ------------- | ---------------------- |
+| `dev`         | 8302 |
+| `train`       | 74749 |
+| `eval`        | 41457 |
+
+
