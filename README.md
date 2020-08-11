@@ -40,7 +40,7 @@ in the corresponding manifest we release.
 
 The sizes of three splits are as follows:
 | Dataset split | Number of source files |
-| ------------- | ---------------------- |
+| :-------------: | ----------------------: |
 | `dev`         | 8302 |
 | `train`       | 74749 |
 | `eval`        | 41457 |
